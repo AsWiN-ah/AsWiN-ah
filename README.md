@@ -1,16 +1,39 @@
-### Hi there 👋
+<!DOCTYPE html>
 
-<!--
-**AsWiN-ah/AsWiN-ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<html>
 
-Here are some ideas to get you started:
+<head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <meta charset="UTF-8">
+
+    <title>My GitHub Page</title>
+
+</head>
+
+<body>
+
+    <h1>Welcome to My GitHub Page!</h1>
+
+    
+
+    <p>This is a sample GitHub webpage.</p>
+
+    
+
+    <ul>
+
+        <li><a href="#">Link 1</a></li>
+
+        <li><a href="#">Link 2</a></li>
+
+        <li><a href="#">Link 3</a></li>
+
+    </ul>
+
+    
+
+    <p>Feel free to explore the links above.</p>
+
+</body>
+
+</html>
